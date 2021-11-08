@@ -46,8 +46,8 @@ let sweetTooth=(totalNoOfSweets, sweetsConsumedByKaren, sweetsConsumedInNMeters,
       }
 };
 //Progression 5:
-//As Lily moves closer, it gets colder. She checks the temperature on her mobile
-//It only shows in fahrenheit. Convert the data to celsius and return it.
+//As Lily moves closer, it gets colder. She checks the temperature on her mobile..
+//It only shows in fahrenheit. Convert the data to celsius and return it...
 let convertToCelsius = (fahrenheit) => {
     if (
       typeof fahrenheit == "object" ||
